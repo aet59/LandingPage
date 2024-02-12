@@ -1,3 +1,3 @@
 # LandingPage
 
-Welcome to my GitHu
+Welcome to my GitHub
